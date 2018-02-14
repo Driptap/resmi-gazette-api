@@ -1,0 +1,7 @@
+{
+  "presets": ["env"],
+  "plugins": [
+    "transform-object-rest-spread",
+    "es6-promise",
+  ],
+}
